@@ -1,4 +1,4 @@
-# Autonomous_Weeding_Robot
+# Autonomous Weeding Robot
 
 Weed control has been a long-standing issue in agriculture for over a century. The uniform spraying of herbicides has proved its efficiency in weed control, but it has also introduced environmental pollution, human health concerns, and herbicide resistance fears. Precision farming offers a solution to this problem by utilising weeding mechanisms to address individual plants or small weed clusters. Human-oriented precision weeding machinery, on the other hand, typically necessitates inefficient and labor-intensive human resources, which cannot justify the economic benefits of herbicide savings.
 
